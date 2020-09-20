@@ -1,2 +1,2 @@
 # MernProject
-this is mern project ejs 
+this is website for send notification reactjs 
