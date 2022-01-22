@@ -20,7 +20,7 @@
     "emoji-picker-react": "^2.1.1",
     "express": "^4.17.1",
     "mongoose": "^5.6.4",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "react-bootstrap": "^1.0.0-beta.12",
     "react-dropdown": "^1.6.4"
   },
